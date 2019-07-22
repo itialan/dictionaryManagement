@@ -1,0 +1,116 @@
+about/pho tu/khoang chung;sap;gan;ve dieu gi;/How about this?;We're about to start;He is about to die;/
+account/danh tu/tai khoan;ban ke khai;/on my account;/
+air/danh tu/khong khi;bau khong khi;/the air is frosty;/
+anonymous/tinh tu/giau ten;nac danh;/he is an anonymous man;/
+ant/danh tu/kien;/ant byt me;/
+apple/danh tu/qua tao;/I have an apple;/
+army/danh tu/quan doi;doi quan;/I need an army;You're in the army now;/
+ball/danh tu/qua bong;qua banh;qua cau;buoi khieu vu;/They're refusing to play ball;I love meatballs;I have a foot ball;/
+banana/danh tu/qua chuoi;cay chuoi;/i have a banana;/
+battery/danh tu/pin;ac quy;/battery low;/
+bear/danh tu/con gau;/It was a big bear;/
+beautiful/tinh tu/dep;tot dep;/beautiful girl;/
+big/tinh tu/to;lon;quan trong;/He likes to talk big;That is a big tree;He looks so big;It's not a big deal;/
+bird/danh tu/con chim;/angry bird;/
+black widow/danh tu/goa phu den;/black widow very beautiful;/
+body/danh tu/co the;xac chet;/over my dead body;/
+box/danh tu/hop;thung;/unboxing;/
+call/danh tu/tieng keu;goi dien;/call me maybe;/
+captain american/danh tu/Sieu anh hung;/captain very strong;/
+car/danh tu/xe oto;/a new car;/
+cat/danh tu/con meo;/feed the cat;save my cat!;/
+catch/dong tu/bat lay;tom lay;duoi theo;/catch me if you can;/
+chair/danh tu/cai ghe;/throw that chair out;/
+class/danh tu/giai cap;lop;buoi hoc;/i love our class;/
+cold/tinh tu/lanh;nguoi;lanh lung;lanh nhat;/Kill somebody in cold blood;The weather is getting colder;I feel so cold;/
+computer/danh tu/may tinh;may dien toan;/your computer was repaired;/
+conversation/danh tu/cuoc noi chuyen;cuoc dam thoai;/this conversation was over;/
+crazy/tinh tu/dien dai;ngu xuan;/are you crazy?;/
+dad/danh tu/cha;ba;bo;/I love my dad;My dad is a teacher;/
+dance/dong tu/nhay mua;khieu vu;/there is a dance;/
+demon/danh tu/ma quy;yeu ma;/son of demon;/
+dictionary/danh tu/tu dien;/the dictionary;/
+dog/danh tu/con cho;ke dang khinh;/ware the dog!;/
+dragon/danh tu/con rong;than lan bay;/G-dragon;/
+duck/danh tu/con vit;/donald duck;/
+early/trang tu/som;dung gio;day som;/i am wake up early;/
+evening/danh tu/buoi chieu;buoi toi;/this evening;/
+face/danh tu/mat;he ngoai;/let's face it;/
+family/danh tu/gia dinh;/I love my family;/
+fantastic/danh tu/ky quai;lap di;/fantastic baby;/
+father/danh tu/cha;ba;bo;/I love my father;My father is a teacher;/
+find/dong tu/tim thay;nhan thay;/let's find out;/
+flower/danh tu/hoa;bong hoa;/i like cherry flower;/
+fly/danh tu/con ruoi;su bay;/i can fly;/
+food/danh tu/thuc an;luong thuc;/finish your food;/
+forum/danh tu/dien dan;toa an;/who is the forum manager?;/
+free/tinh tu/tu do;mien phi;ranh roi;/free of charge;/
+freeze/dong tu/dong bang;lanh cung;/my heart is freeze;/
+friend/danh tu/ban be;dong minh;/with a friend;/
+funk/danh tu/su kinh so;ke nhat gan;/uptown funk;/
+game/danh tu/tro choi;/game over;/
+gift/danh tu/qua tang;/as a gift?;/
+girl/danh tu/co gai;con gai;/This girl is pretty;I love this girl;/
+go/dong tu/di;/Let's go;I have to go to work right now;/
+golf/danh tu/danh gon;/play golf;/
+good/tinh tu/tot;hay;tuyet;/good idea;people good;/
+grab bike/danh tu/xe om;/i catch a grab bike;/
+hat/danh tu/cai non;cai mu;/Please wear a hat;I have a black hat;/
+hate/dong tu/ghet;cam thu;/i hate you;/
+here/pho tu/o day;day;/listen here!;/
+hug/dong tu/om;bam chat;/i need a hug;can i hug you?;/
+impossible/tinh tu/khong the lam duoc;/nothing is impossible;/
+information/danh tu/su thong tin;/i want information;/
+iron man/danh tu/nguoi sat;/iron man dead on Endgame;/
+join/dong tu/tham gia;tham du;/i join english club;/
+kill/dong tu/giet;/i'll kill you;please don't kill me;/
+king/danh tu/vua;chua te;/i am a king;/
+kiss/dong tu/nu hon;hon;/give me a kiss!;/
+korea/danh tu/han quoc;/korea idol;/
+label/danh tu/nhan hieu;nhan;/how to apply a label;/
+letter/danh tu/thu tin;chu cai;/i hate letter writing;/
+like/dong tu/thich;ua thich;/i like you;/
+line/danh tu/day;duong ke;dong chu;/draw the line;/
+lion/danh tu/con su tu;cung su tu;nguoi gan da;/the lion king movie;/
+lonely/tinh tu/doc than;/i am lonely;/
+lose/dong tu/mat;bo qua;/you lose bro;/
+love/danh tu/tinh yeu;tinh thuong;yeu;/i love trees;i love reading;i love you;/
+loved/danh tu/da yeu;/i loved;/
+lucky/tinh tu/may man;/i am lucky;/
+mad/tinh tu/dien khung;dien ro;/he went mad;/
+mail/danh tu/thu tu;buu dien;/you've got mail;/
+mine/danh tu/min;qua min;thuy loi;ham mo;cua toi;dat min;khai mo;/The money is all mine;I don't want to work in a mine;Don't step on any mines;Mine the Earth for gold;/
+mix/dong tu/tron;pha lan;/i mix a vegetables;/
+monkey/danh tu/con khi;/you look like a monkey;/
+morning/danh tu/buoi sang;/good morning;/
+mouse/danh tu/con chuot;/mickey mouse;/
+music/danh tu/nhac;am nhac;/he loves music!;/
+night/danh tu/dem;toi;/good night!;/
+noodle/danh tu/mi soi;nguoi ngu ngoc;/instant noodle is very good;/
+picture/danh tu/buc hoa;buc ve;buc tranh;/look at this picture;/
+power/danh tu/nang luc;nang luong;/i've lost power;/
+question/danh tu/cau hoi;van de;/what a silly question;/
+safe/tinh tu/an toan;co the tin cay;/is it safe?;/
+search/dong tu/tim kiem;luc soat;/this is my search engine;/
+silly/tinh tu/ngo nghech;ngo ngan;dai kho;/don't be silly;/
+slow/tinh tu/cham chap;le me;/slow down please;/
+software/danh tu/phan mem;/we use design software;/
+sound/danh tu/am thanh;tieng dong;/sound good!;/
+spy/danh tu/gian diep;diep vien;trinh sat;/the spy stole secret government;/
+sun/danh tu/mat troi;vang thai duong;/the sun is shining;/
+table/danh tu/cai ban;ban an;/wipe the table;/
+technology/danh tu/cong nghe;ky thuat hoc;/information technology;/
+tiger/danh tu/con ho;con cop;/it's an ugly tiger;/
+tool/danh tu/dung cu;cong cu;/i need a tool bag;/
+tutorial/danh tu/huong dan;/video tutorial;/
+ugly/tinh tu/xau xi;xau xa;/you're so ugly;/
+video/danh tu/bang video;/video player;/
+virus/danh tu/vi rut;nguon gay benh;/H5N1 virus;/
+volume/danh tu/am luong;cuon sach;/did you adjust the volume?;/
+water/danh tu/nuoc;/people must drink water;/
+word/danh tu/tu;loi noi;/spell this word;/
+work/danh tu/cong viec;noi lam viec;/no work;/
+zombie/danh tu/thay ma;/this is the zombie movie;/
+zone/danh tu/khu;mien;/The zone of influence;A nuclear-free zone;Industrial zone;/
+zoo/danh tu/vuon thu;so thu;/My father's taking me to the zoo;/
+zoom/dong tu/phong to;/i zoom a photo;/
